@@ -181,7 +181,8 @@ This project also increased my confidence in building beginner-level real-world 
 balance = 1000
 ```
 
-This variable stores the user's initial bank balance.
+### Explanation:
+This variable stores the initial bank balance for the user.
 
 ---
 
@@ -194,7 +195,7 @@ def check_balance():
 
 ### Explanation:
 - `def` is used to create a function.
-- This function displays the current balance available in the account.
+- This function displays the current available balance.
 
 ---
 
@@ -204,7 +205,8 @@ def check_balance():
 def deposit():
 ```
 
-This function allows users to deposit money into their account.
+### Explanation:
+This function allows users to add money into their account.
 
 ### Steps Performed:
 ✅ Takes deposit amount as input  
@@ -220,6 +222,7 @@ This function allows users to deposit money into their account.
 def withdraw():
 ```
 
+### Explanation:
 This function handles withdrawal operations.
 
 ### Validation Included:
@@ -235,8 +238,8 @@ This function handles withdrawal operations.
 while True:
 ```
 
-### Purpose:
-This loop keeps the application running continuously until the user chooses the Exit option.
+### Explanation:
+This loop keeps the application running continuously until the user chooses Exit.
 
 ---
 
@@ -246,7 +249,8 @@ This loop keeps the application running continuously until the user chooses the 
 if choice == "1":
 ```
 
-Conditional statements help the program perform different operations based on user selection.
+### Explanation:
+Conditional statements are used to perform different operations based on user input.
 
 ---
 
@@ -319,9 +323,17 @@ Conditional statements help the program perform different operations based on us
 
 ## 👨‍💻 Abhishek
 
-📧 abhishek02.tech@gmail.com
+📧 Email: abhishek02.tech@gmail.com
 
-💻 Python Learner | Future Software Engineer | Tech Enthusiast
+🔗 LinkedIn:  
+www.linkedin.com/in/abhishek-chaudhari-12332102gg
+
+💻 GitHub:  
+https://github.com/abhishekkz-tech
+
+---
+
+💡 Python Learner | Future Software Engineer | Tech Enthusiast
 
 </div>
 
